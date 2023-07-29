@@ -21,7 +21,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Certificates | Portfolio Naman Shah";
-            $("#favicon").attr("href", "/assets/images/favicon.jpg");
+            $("#favicon").attr("href", "/assets/images/naman (5).jpg");
         }
         else {
             document.title = "Come Back To Portfolio";

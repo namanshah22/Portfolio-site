@@ -67,8 +67,8 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Akash Singh";
-        $("#favicon").attr("href","/assets/images/favicon.png");
+        document.title = "Experience | Portfolio Naman Shah";
+        $("#favicon").attr("href","/assets/images/naman (5).png");
     }
     else {
         document.title = "Come Back To Portfolio";
