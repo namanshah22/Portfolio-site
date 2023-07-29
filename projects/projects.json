@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Food Managing App",
+    "desc": "Developed a food recipe app with React, Spoonacular API, and CSS/HTML. Features: search, favorites, themes.",
+    "image": "react-food1",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/namanshah22/react-food-app",
+      "view": "https://react-food-app-tau.vercel.app/"
+    }
+  },
+  {
+    "name": "Contact Form",
+    "desc": "This is a simple contact form built using PHP and HTML, with error checking included. This contact form includes error checking to ensure that all required form fields are filled.",
+    "image": "contactus",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/namanshah22/contactform"
+    }
+  },
+  {
+    "name": "Diabetes Prediction using ML",
+    "desc": "A machine learning model for diabetes prediction was implemented using SVM. The model achieved high accuracy on training and testing datasets.",
+    "image": "diabetespred",
+    "category": "ML",
+    "links":{
+      "code": "https://github.com/namanshah22/Diabetes-Prediction-ML"
+    } 
+  },
+  {
+    "name": "Loads-API Manager",
+    "desc": "This is a Spring Boot project that allows you to manage load details using RESTful APIs. The project uses MySQL as the database to store the data.",
+    "image": "Spring-Boot",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/namanshah22/loads-api"
+    }
+  },
+  {
+    "name": "Taxi Inquiry Service",
+    "desc": "This is a simple web application for taxi inquiries. Users can submit their inquiry through a form and receive a confirmation page.",
+    "image": "taxi",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/namanshah22/my-taxi-inquiry-app",
+      "view": "https://my-taxi-inquiry-app.vercel.app/"
+    }
+  },
+  {
+    "name": "PDF Form Submission and Database Storage System",
+    "desc": "A web page with a form that captures user data and generates a PDF. The data is stored in a database.",
+    "image": "formsub",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/namanshah22/form-submission-with-pdf-creation"
+    }
+  },
+  {
+    "name": "PHP Login and Registration Form",
+    "desc": "This is a simple PHP web application that allows users to register for an account and log in using their credentials. The application is built using PHP and MySQL and includes a security feature for hashing passwords.",
+    "image": "Age_Calculator",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/namanshah22/login-and-registration-form"
+    }
+  }
+
+]
+
+

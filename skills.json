@@ -1,0 +1,86 @@
+[
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/stickers/48/c.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+   
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+
+    {
+        "name": "ReactJS",
+        "icon": "https://camo.githubusercontent.com/123eef738fcacfd61a11340211f003af9d51c3ed334728b54c666ebd366ea92d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163744a532d2532333230323332612e7376673f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"
+    },
+    
+    {
+        "name": "pandas",
+        "icon": "https://img.icons8.com/color/48/pandas.png"
+    },
+    
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/color/48/numpy.png" 
+    },
+    
+    {
+        "name": "Matplotlib",
+        "icon": "https://camo.githubusercontent.com/d7d3b45277a778f51624d1bd7afe065293dcdd53ce7fb3eca8261a67d0232739/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532334646393933332e7376673f7374796c653d666c6174266c6f676f3d6d6174706c6f746c6962266c6f676f436f6c6f723d7768697465"
+    },
+    
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/officel/50/php-logo.png" 
+    },
+      
+      
+
+      
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/dusk/64/postman-api.png" 
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+   
+   
+    {
+        "name": "Jupyter Notebook",
+        "icon": "https://img.icons8.com/fluency/48/jupyter.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"
+    }  
+]
